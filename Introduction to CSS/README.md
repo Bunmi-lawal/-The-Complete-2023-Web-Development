@@ -1,0 +1,1 @@
+Section 4- introduction to CSS This section contains an index.html website and an external CSS style sheet. It covers 🔸inline CSS, 🔸Internal CSS, 🔸External CSS, 🔸Classes vs IDs. All of these were used in creating the bacon fansite website(index.html)
