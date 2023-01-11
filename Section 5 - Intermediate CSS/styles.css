@@ -1,48 +1,78 @@
-  body {
-    margin: 0;
-    text-align: center;
-    font-family: 'Merriweather', serif;
-  }
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
 
-  h1 {
-    margin-top: 20px;
-    font-family: 'Sacramento', cursive;
-  }
+h1 {
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+}
 
-  h2 {
-    font-family: 'Montserrat', sans-serif;
-  }
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
 
-  h3 {
-    font-family: 'Montserrat', sans-serif;
-  }
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+a {
+  color: #11999E;
+}
 
-  .top-container{
-    background-color: #E4F9F5;
-    position: relative;
-    padding-top: 100px
-  }
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px
+}
 
-  .middle-container {
-    background-color: gold;
-    height: 100px;
-    width: 100px;
-  }
+.middle-container {
+  background-color: white;
+}
 
-  .bottom-container {
-    background-color: blue;
-    height: 100px;
-    width: 100px;
-  }
+.bottom-container {
+  background-color: pink;
+}
 
-  .top-cloud {
-    position: absolute;
-    top: 50px;
-    right: 500px;
-  }
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 500px;
+}
 
-  .bottom-cloud {
-    position: absolute;
-    left: 400px;
-    bottom: 300px;
-  }
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+}
+
+.skill-row{
+width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+}
+.Reading{
+width: 25%;
+float: right;
+margin-left: 30px;
+
+}
+.Cooking{
+width: 25%;
+float: left;
+margin-right: 30px;
+}
+.cooking-skill-descripttion{
+clear: left;
+}
+.reading-skill-description{
+clear: right;
+}
