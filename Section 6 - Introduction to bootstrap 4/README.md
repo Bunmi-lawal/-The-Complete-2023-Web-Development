@@ -14,4 +14,4 @@ in this lesson, a resource called balsamiq.cloud was introduced. it was solely u
 
 lesson 66- The bootstrap navigation bar
 this lesson talked about navigation bar- A navigation bar is basically a list of links
-and the usage of nav-brand was intoduced, nav-toggler and the usage of color.
+and the usage of nav-brand was intoduced, nav-toggler and the usage of color
