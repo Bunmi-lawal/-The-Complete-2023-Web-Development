@@ -34,15 +34,19 @@ h1{
   font-size: 1.2rem;
 
 }
-/* second container */
+/* Features section */
 #features{
-  padding:10% 20%;
+  padding:7% 15%;
+
+}
+.feature-box{
   text-align:center;
+  padding: 5%;
 }
 h3{
   font-weight: bold;
   font-size: 1.5rem;
-  padding-top: 10%;
+  padding-top: 1rem;
 }
 .comment{
   color: #8f8f8f;
@@ -51,6 +55,29 @@ h3{
 
 }
 .fa-solid{
-  font-size: 3.5rem;
-  clear: right;
+  color: #ef8172;
+}
+.fa-solid:hover{
+  color: #ff4c68;
+}
+/* Testimonial Section */
+h2{
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+
+}
+.carousel-item{
+  padding:7% 15%;
+}
+#testimonials{
+text-align: center;
+background-color: #ef8172;
+color: #fff;
+}
+.testimonial-img{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
 }
